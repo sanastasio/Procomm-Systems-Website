@@ -4,24 +4,8 @@
     <option name="ANALYSIS_IN_BACKGROUND" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca0cbc7-236b-46fa-861e-ff6d3cb1386a" name="Default" comment="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Kenwood.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Kenwood.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Kenwood_greyscale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Zetron.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Zetron.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Zetron_grayscale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/allstate-tower_greyscale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/bramic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/bramic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/bramic_grayscale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/exalt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/exalt_greyscale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/midland_greyscale.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/partners/allstate-tower.png" afterPath="$PROJECT_DIR$/assets/img/partners/allstate-tower.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/sliders/layer/backgroundattempt.jpg" afterPath="$PROJECT_DIR$/assets/img/sliders/layer/backgroundattempt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/partners/exalt.png" afterPath="$PROJECT_DIR$/assets/img/partners/exalt.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/partners/midland.png" afterPath="$PROJECT_DIR$/assets/img/partners/midland.png" />
+    <list default="true" id="eca0cbc7-236b-46fa-861e-ff6d3cb1386a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/electrical.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact.html" afterPath="$PROJECT_DIR$/Contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Services.html" afterPath="$PROJECT_DIR$/Services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vendors.html" afterPath="$PROJECT_DIR$/Vendors.html" />
@@ -207,83 +191,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="458" column="62" selection-start="22741" selection-end="22741" vertical-scroll-proportion="-0.6666667" vertical-offset="7752" max-vertical-offset="10812">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zetron.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/partners/Zetron.png">
+      <file leaf-file-name="11.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/11.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zetron_grayscale.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/partners/Zetron_grayscale.png">
+      <file leaf-file-name="10.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/10.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page_coming_soon.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unify/page_coming_soon.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="135" column="8" selection-start="0" selection-end="6017" vertical-scroll-proportion="-31.384615" vertical-offset="1479" max-vertical-offset="2397">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coming_soon.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coming_soon.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="33" selection-start="1555" selection-end="1555" vertical-scroll-proportion="0.47475833" vertical-offset="204" max-vertical-offset="2125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="img1.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/new/img1.jpg">
+      <file leaf-file-name="9.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/9.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contact.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="16" selection-start="1445" selection-end="1445" vertical-scroll-proportion="88.92308" vertical-offset="2907" max-vertical-offset="6647">
-              <folding />
-            </state>
+      <file leaf-file-name="8.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/8.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page_home1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unify/page_home1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="33" selection-start="4033" selection-end="4037" vertical-scroll-proportion="325.96155" vertical-offset="9988" max-vertical-offset="12682">
-              <folding />
-            </state>
+      <file leaf-file-name="7.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/7.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unify/assets/css/themes/default.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7922">
-              <folding />
-            </state>
+      <file leaf-file-name="6.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/6.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logo2.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/custom/logo2.jpg">
+      <file leaf-file-name="5.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/5.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/4.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/main/3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="electrical.png" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/img/electrical.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -315,11 +287,11 @@
         <option value="$PROJECT_DIR$/assets/js/pages/contact.js" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/meet_the_team.html" />
-        <option value="$PROJECT_DIR$/Services.html" />
         <option value="$PROJECT_DIR$/Vendors.html" />
         <option value="$PROJECT_DIR$/Contact.html" />
         <option value="$PROJECT_DIR$/coming_soon.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Services.html" />
       </list>
     </option>
   </component>
@@ -443,6 +415,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="partners" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -768,7 +784,7 @@
       <workItem from="1393256977676" duration="137000" />
       <workItem from="1393257631242" duration="7495000" />
       <workItem from="1393276025027" duration="11783000" />
-      <workItem from="1393431095459" duration="12048000" />
+      <workItem from="1393431095459" duration="14613000" />
     </task>
     <task id="LOCAL-00001" summary="Fleshed out the website more. &#10;Home Page Slider, Contact Page, Meet The Team page, about us page, began updating images">
       <created>1393431591176</created>
@@ -790,11 +806,15 @@
       <created>1393445715217</created>
       <updated>1393445715217</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;Fixed the partners slider on the home page">
+      <created>1393448967509</created>
+      <updated>1393448967509</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35184000" />
+    <option name="totallyTimeSpent" value="37749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
@@ -846,7 +866,8 @@
     <MESSAGE value="Fixed error where assets were pointing into Unify directory" />
     <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio." />
     <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing" />
+    <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;Fixed the partners slider on the home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;Fixed the partners slider on the home page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -856,81 +877,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/allstate tower_grey.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/allstate tower.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/alcatel lucent_grey.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/alcatel lucent.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/911logo_grey.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/911logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/911logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/aztec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/cisco.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/cocacola.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/everyday.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/gamescast.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/hp.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/igneus.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/clients/motogp.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/clients/natural.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1005,32 +951,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/main/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/main/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/main/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/Procomm logo 2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/Picture3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/Government.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1041,31 +962,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/logo1-default.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/Testlogo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/p25_base_station.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/LOGO- PCS.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/LOGO2.pub DESK.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/custom/logo2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1113,18 +1009,151 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/coming_soon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="458" column="62" selection-start="22741" selection-end="22741" vertical-scroll-proportion="-0.6666667" vertical-offset="7752" max-vertical-offset="10812">
+        <state line="57" column="10" selection-start="2309" selection-end="2309" vertical-scroll-proportion="-21.576923" vertical-offset="408" max-vertical-offset="2125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coming_soon.html">
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/Government.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/Testlogo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/Procomm logo 2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/Picture3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/p25_mobiles.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/p25_base_station.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/LOGO- PCS.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/LOGO2.pub DESK.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/custom/logo2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unify/page_services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="33" selection-start="1555" selection-end="1555" vertical-scroll-proportion="0.47475833" vertical-offset="204" max-vertical-offset="2125">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11186">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unify/page_services1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="641" column="8" selection-start="0" selection-end="33383" vertical-scroll-proportion="-31.384615" vertical-offset="10081" max-vertical-offset="10999">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="577" column="25" selection-start="24774" selection-end="28675" vertical-scroll-proportion="-12.843137" vertical-offset="9154" max-vertical-offset="10829">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="12" selection-start="10009" selection-end="10009" vertical-scroll-proportion="-43.153847" vertical-offset="2584" max-vertical-offset="9401">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/13.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/12.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/11.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/10.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/electrical.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
