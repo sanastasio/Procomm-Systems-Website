@@ -4,14 +4,24 @@
     <option name="ANALYSIS_IN_BACKGROUND" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca0cbc7-236b-46fa-861e-ff6d3cb1386a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/Testlogo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/testlogo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coming_soon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/pages/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/pages/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/pages/portfolio.js" />
+    <list default="true" id="eca0cbc7-236b-46fa-861e-ff6d3cb1386a" name="Default" comment="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Kenwood.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Kenwood.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Kenwood_greyscale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Zetron.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Zetron.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/Zetron_grayscale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/allstate-tower_greyscale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/bramic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/bramic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/bramic_grayscale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/exalt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/exalt_greyscale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/partners/midland_greyscale.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/partners/allstate-tower.png" afterPath="$PROJECT_DIR$/assets/img/partners/allstate-tower.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/sliders/layer/backgroundattempt.jpg" afterPath="$PROJECT_DIR$/assets/img/sliders/layer/backgroundattempt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/partners/exalt.png" afterPath="$PROJECT_DIR$/assets/img/partners/exalt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/partners/midland.png" afterPath="$PROJECT_DIR$/assets/img/partners/midland.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact.html" afterPath="$PROJECT_DIR$/Contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Services.html" afterPath="$PROJECT_DIR$/Services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vendors.html" afterPath="$PROJECT_DIR$/Vendors.html" />
@@ -59,6 +69,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header2-red.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header2-red.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/headers/header2.css" afterPath="$PROJECT_DIR$/assets/css/headers/header2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/horizontal-parallax/css/horizontal-parallax.css" afterPath="$PROJECT_DIR$/assets/plugins/horizontal-parallax/css/horizontal-parallax.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/demo/index.html" afterPath="$PROJECT_DIR$/assets/plugins/flexslider/demo/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/assets/plugins/jquery-1.10.2.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/assets/plugins/jquery-migrate-1.2.1.min.js" />
@@ -199,9 +210,23 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="74" selection-start="350" selection-end="350" vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="10812">
+            <state line="458" column="62" selection-start="22741" selection-end="22741" vertical-scroll-proportion="-0.6666667" vertical-offset="7752" max-vertical-offset="10812">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zetron.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/partners/Zetron.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zetron_grayscale.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/partners/Zetron_grayscale.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -217,7 +242,7 @@
       <file leaf-file-name="coming_soon.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coming_soon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="31" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.52953815" vertical-offset="0" max-vertical-offset="2125">
+            <state line="38" column="33" selection-start="1555" selection-end="1555" vertical-scroll-proportion="0.47475833" vertical-offset="204" max-vertical-offset="2125">
               <folding />
             </state>
           </provider>
@@ -257,20 +282,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LOGO- PCS.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/custom/LOGO- PCS.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LOGO2.pub DESK.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/custom/LOGO2.pub DESK.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="logo2.jpg" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/img/custom/logo2.jpg">
           <provider selected="true" editor-type-id="images">
@@ -306,9 +317,9 @@
         <option value="$PROJECT_DIR$/meet_the_team.html" />
         <option value="$PROJECT_DIR$/Services.html" />
         <option value="$PROJECT_DIR$/Vendors.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Contact.html" />
         <option value="$PROJECT_DIR$/coming_soon.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -392,6 +403,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partners" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -717,7 +768,7 @@
       <workItem from="1393256977676" duration="137000" />
       <workItem from="1393257631242" duration="7495000" />
       <workItem from="1393276025027" duration="11783000" />
-      <workItem from="1393431095459" duration="9217000" />
+      <workItem from="1393431095459" duration="12048000" />
     </task>
     <task id="LOCAL-00001" summary="Fleshed out the website more. &#10;Home Page Slider, Contact Page, Meet The Team page, about us page, began updating images">
       <created>1393431591176</created>
@@ -735,11 +786,15 @@
       <created>1393436583864</created>
       <updated>1393436583864</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing">
+      <created>1393445715217</created>
+      <updated>1393445715217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32353000" />
+    <option name="totallyTimeSpent" value="35184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
@@ -790,7 +845,8 @@
     <MESSAGE value="Re-added pages that were removed" />
     <MESSAGE value="Fixed error where assets were pointing into Unify directory" />
     <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio." />
+    <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -800,16 +856,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/axell_grey.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/partners/axell.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/partners/allstate tower_grey.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1038,13 +1084,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="74" selection-start="350" selection-end="350" vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="10812">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unify/page_coming_soon.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="135" column="8" selection-start="0" selection-end="6017" vertical-scroll-proportion="-31.384615" vertical-offset="1479" max-vertical-offset="2397">
@@ -1064,9 +1103,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/partners/Zetron.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/partners/Zetron_grayscale.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="458" column="62" selection-start="22741" selection-end="22741" vertical-scroll-proportion="-0.6666667" vertical-offset="7752" max-vertical-offset="10812">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coming_soon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="31" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.52953815" vertical-offset="0" max-vertical-offset="2125">
+        <state line="38" column="33" selection-start="1555" selection-end="1555" vertical-scroll-proportion="0.47475833" vertical-offset="204" max-vertical-offset="2125">
           <folding />
         </state>
       </provider>
