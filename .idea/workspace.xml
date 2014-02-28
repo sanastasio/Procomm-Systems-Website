@@ -189,20 +189,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="9.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/main/9.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/main/8.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="7.jpg" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/img/main/7.jpg">
           <provider selected="true" editor-type-id="images">
@@ -252,10 +238,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="213" column="64" selection-start="10390" selection-end="10390" vertical-scroll-proportion="0.64876324" vertical-offset="2703" max-vertical-offset="7480">
+            <state line="314" column="28" selection-start="15363" selection-end="15363" vertical-scroll-proportion="-53.115383" vertical-offset="3957" max-vertical-offset="7480">
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Services.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="378" column="12" selection-start="17384" selection-end="17384" vertical-scroll-proportion="0.6968616" vertical-offset="5449" max-vertical-offset="9401">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="423" column="0" selection-start="21301" selection-end="24697" vertical-scroll-proportion="-21.884615" vertical-offset="6622" max-vertical-offset="10829">
               <folding />
             </state>
           </provider>
@@ -290,8 +296,8 @@
         <option value="$PROJECT_DIR$/Contact.html" />
         <option value="$PROJECT_DIR$/coming_soon.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Services.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/Services.html" />
       </list>
     </option>
   </component>
@@ -786,7 +792,7 @@
       <workItem from="1393276025027" duration="11783000" />
       <workItem from="1393431095459" duration="15378000" />
       <workItem from="1393522929398" duration="14000" />
-      <workItem from="1393619240943" duration="68000" />
+      <workItem from="1393619240943" duration="260000" />
     </task>
     <task id="LOCAL-00001" summary="Fleshed out the website more. &#10;Home Page Slider, Contact Page, Meet The Team page, about us page, began updating images">
       <created>1393431591176</created>
@@ -816,11 +822,15 @@
       <created>1393451577909</created>
       <updated>1393451577909</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated career title">
+      <created>1393619351156</created>
+      <updated>1393619351156</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38596000" />
+    <option name="totallyTimeSpent" value="38788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
@@ -839,6 +849,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992503" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -849,7 +860,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992503" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39945468" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -874,7 +884,8 @@
     <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing" />
     <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;Fixed the partners slider on the home page" />
     <MESSAGE value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;Fixed the partners slider on the home page&#10;Began Services page QED for the day" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed error where assets were pointing into Unify directory&#10;Fixed an error where Recent Works and several other sections were removed form the container. Which led to some weird aspect ratio.&#10;Added JS files that were missing&#10;Fixed the partners slider on the home page&#10;Began Services page QED for the day" />
+    <MESSAGE value="updated career title" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated career title" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1054,16 +1065,6 @@
         <state line="641" column="8" selection-start="0" selection-end="33383" vertical-scroll-proportion="-31.384615" vertical-offset="10081" max-vertical-offset="10999" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="577" column="25" selection-start="24774" selection-end="28675" vertical-scroll-proportion="-12.843137" vertical-offset="9154" max-vertical-offset="10829" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="218" column="12" selection-start="10009" selection-end="10009" vertical-scroll-proportion="-43.153847" vertical-offset="2584" max-vertical-offset="9401" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/main/1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1134,9 +1135,25 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="423" column="0" selection-start="21301" selection-end="24697" vertical-scroll-proportion="-21.884615" vertical-offset="6622" max-vertical-offset="10829">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="213" column="64" selection-start="10390" selection-end="10390" vertical-scroll-proportion="0.64876324" vertical-offset="2703" max-vertical-offset="7480">
+        <state line="314" column="28" selection-start="15363" selection-end="15363" vertical-scroll-proportion="-53.115383" vertical-offset="3957" max-vertical-offset="7480">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="378" column="12" selection-start="17384" selection-end="17384" vertical-scroll-proportion="0.6968616" vertical-offset="5449" max-vertical-offset="9401">
           <folding />
         </state>
       </provider>
