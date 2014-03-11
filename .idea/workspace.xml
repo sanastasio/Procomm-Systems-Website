@@ -4,128 +4,22 @@
     <option name="ANALYSIS_IN_BACKGROUND" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca0cbc7-236b-46fa-861e-ff6d3cb1386a" name="Default" comment="">
+    <list default="true" id="eca0cbc7-236b-46fa-861e-ff6d3cb1386a" name="Default" comment="updated career title&#10;Fixed footer and client&#10;Added second slider,">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bg/800px-Suburban_neighborhood,_Van_Nuys,_CA.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo/logo_zetron_authorized_reseller.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo/logo_zetron_authorized_reseller.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo/logo_zetron_authorized_reseller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo/logo_zetron_authorized_reseller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo/logo_zetron_authorized_reseller.tif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo/reseller logo guide.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/reseller logo.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/stockvault-happy-policeman142640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/stockvault-happy-policeman142640.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bg/suburbanhouses.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact.html" afterPath="$PROJECT_DIR$/Contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Services.html" afterPath="$PROJECT_DIR$/Services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vendors.html" afterPath="$PROJECT_DIR$/Vendors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/apple-style/css/apple-style.css" afterPath="$PROJECT_DIR$/assets/plugins/apple-style/css/apple-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/autowidth.css" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/autowidth.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/back-to-top.js" afterPath="$PROJECT_DIR$/assets/plugins/back-to-top.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/demo/basic-carousel.html" afterPath="$PROJECT_DIR$/assets/plugins/flexslider/demo/basic-carousel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/blog.css" afterPath="$PROJECT_DIR$/assets/css/pages/blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/blue.css" afterPath="$PROJECT_DIR$/assets/css/themes/blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/demo/carousel-min-max.html" afterPath="$PROJECT_DIR$/assets/plugins/flexslider/demo/carousel-min-max.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coming_soon.html" afterPath="$PROJECT_DIR$/coming_soon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/css/countdown.css" afterPath="$PROJECT_DIR$/assets/plugins/countdown/css/countdown.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/default.css" afterPath="$PROJECT_DIR$/assets/css/themes/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-01-responsive.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-01-responsive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-02A-fullwidth.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-02A-fullwidth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-02B-fullwidth.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-02B-fullwidth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-03-simple-double.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-03-simple-double.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-04-API.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-04-API.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-05-shuffle.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-05-shuffle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-06-transparent.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-06-transparent.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-07-stop-at-4th-slide.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-07-stop-at-4th-slide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-08-one-slide-only.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-08-one-slide-only.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-09-FullSlideVideo-html5-vimeo-youtube.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-09-FullSlideVideo-html5-vimeo-youtube.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-10-Hide-Captions.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-10-Hide-Captions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-11-Colored-Background.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-11-Colored-Background.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-12-Thumbnails.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-12-Thumbnails.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-13-FirstSlideDifferentStart.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-13-FirstSlideDifferentStart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-14-LazyLoad.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-14-LazyLoad.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-15-Aligns.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-15-Aligns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-16-FullScreen.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-16-FullScreen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-17-FullScreen-With-Offset.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-17-FullScreen-With-Offset.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-18-Html5-Vimeo-Youtube.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/example-18-Html5-Vimeo-Youtube.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/fullscreen.css" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/fullscreen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/fullwidth.css" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/fullwidth.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/gmap/gmap.js" afterPath="$PROJECT_DIR$/assets/plugins/gmap/gmap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header1-blue.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header1-blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header1-light.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header1-light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header1-orange.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header1-orange.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header1-red.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header1-red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/headers/header1.css" afterPath="$PROJECT_DIR$/assets/css/headers/header1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header2-blue.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header2-blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header2-light.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header2-light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header2-orange.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header2-orange.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/headers/header2-red.css" afterPath="$PROJECT_DIR$/assets/css/themes/headers/header2-red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/headers/header2.css" afterPath="$PROJECT_DIR$/assets/css/headers/header2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/horizontal-parallax/css/horizontal-parallax.css" afterPath="$PROJECT_DIR$/assets/plugins/horizontal-parallax/css/horizontal-parallax.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/demo/index.html" afterPath="$PROJECT_DIR$/assets/plugins/flexslider/demo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/assets/plugins/jquery-1.10.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/assets/plugins/jquery-migrate-1.2.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/bxslider/jquery.bxslider.css" afterPath="$PROJECT_DIR$/assets/plugins/bxslider/jquery.bxslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/bxslider/jquery.bxslider.js" afterPath="$PROJECT_DIR$/assets/plugins/bxslider/jquery.bxslider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ar.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-bs.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-bs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ca.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ca.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-da.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-da.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-de.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-de.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-el.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-el.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-es.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-es.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-et.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-et.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-fa.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-fa.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-fi.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-fi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-fr.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-fr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-gu.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-gu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-he.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-he.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-hr.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-hr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-hu.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-hu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-hy.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-hy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-id.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-id.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ja.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ja.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-lv.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-lv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ml.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ml.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ms.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ms.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-my.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-nb.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-nb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-nl.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-nl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-pl.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-pl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-pt-BR.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-pt-BR.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ro.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ru.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-sq.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-sq.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-sv.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-sv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-tr.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-tr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-uk.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-uk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-vi.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown-vi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown.min.js" afterPath="$PROJECT_DIR$/assets/plugins/countdown/plugin/jquery.countdown.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/parallax-slider/js/jquery.cslider.js" afterPath="$PROJECT_DIR$/assets/plugins/parallax-slider/js/jquery.cslider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/less-1.4.1.min.js" afterPath="$PROJECT_DIR$/assets/plugins/less-1.4.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/light.css" afterPath="$PROJECT_DIR$/assets/css/themes/light.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meet_the_team.html" afterPath="$PROJECT_DIR$/meet_the_team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/parallax-slider/js/modernizr.js" afterPath="$PROJECT_DIR$/assets/plugins/parallax-slider/js/modernizr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/orange.css" afterPath="$PROJECT_DIR$/assets/css/themes/orange.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_404_error.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_404_error.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_404_error1.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_404_error1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_clients.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_clients.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_coming_soon.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_coming_soon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_contact.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_invoice.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_invoice.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_log_reg_v1.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_log_reg_v1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_log_reg_v2.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_log_reg_v2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_magazine.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_magazine.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_one.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_one.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_pricing.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_pricing.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_promo.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_promo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/page_search.css" afterPath="$PROJECT_DIR$/assets/css/pages/page_search.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/parallax-slider/css/parallax-slider.css" afterPath="$PROJECT_DIR$/assets/plugins/parallax-slider/css/parallax-slider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/portfolio-v1.css" afterPath="$PROJECT_DIR$/assets/css/pages/portfolio-v1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/pages/portfolio-v2.css" afterPath="$PROJECT_DIR$/assets/css/pages/portfolio-v2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/themes/red.css" afterPath="$PROJECT_DIR$/assets/css/themes/red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/release_log.txt" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/release_log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/respond.js" afterPath="$PROJECT_DIR$/assets/plugins/respond.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/responsive.css" afterPath="$PROJECT_DIR$/assets/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/responsive.css" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/rs-plugin/css/settings-ie8.css" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/rs-plugin/css/settings-ie8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/rs-plugin/css/settings.css" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/rs-plugin/css/settings.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/simple.css" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/css/simple.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/demo/thumbnail-controlnav.html" afterPath="$PROJECT_DIR$/assets/plugins/flexslider/demo/thumbnail-controlnav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/demo/thumbnail-slider.html" afterPath="$PROJECT_DIR$/assets/plugins/flexslider/demo/thumbnail-slider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/revolution_slider/transition-preview.html" afterPath="$PROJECT_DIR$/assets/plugins/revolution_slider/transition-preview.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Procomm.iws" />
@@ -190,13 +84,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="6.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/main/6.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="5.jpg" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/img/main/5.jpg">
           <provider selected="true" editor-type-id="images">
@@ -225,48 +112,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LOGO- PCS.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/custom/LOGO- PCS.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
+      <file leaf-file-name="meet_the_team.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meet_the_team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="314" column="28" selection-start="15363" selection-end="15363" vertical-scroll-proportion="0.0" vertical-offset="3957" max-vertical-offset="7480">
+            <state line="49" column="18" selection-start="2292" selection-end="2292" vertical-scroll-proportion="-5.0" vertical-offset="615" max-vertical-offset="7500">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Services.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="378" column="12" selection-start="17384" selection-end="17384" vertical-scroll-proportion="-37.576923" vertical-offset="5449" max-vertical-offset="9401">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coming_soon.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coming_soon.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="21" selection-start="1964" selection-end="1964" vertical-scroll-proportion="0.43663004" vertical-offset="152" max-vertical-offset="2363">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/Documentation/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="423" column="0" selection-start="21301" selection-end="24697" vertical-scroll-proportion="0.0" vertical-offset="6622" max-vertical-offset="10829">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11955">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="274" column="25" selection-start="12477" selection-end="12477" vertical-scroll-proportion="-65.625" vertical-offset="2535" max-vertical-offset="4650">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="137" column="0" selection-start="6322" selection-end="6322" vertical-scroll-proportion="0.3584559" vertical-offset="1665" max-vertical-offset="9165">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iphone1.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/mockup/iphone1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/bg/5.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -294,22 +186,20 @@
         <option value="$PROJECT_DIR$/HTML/about.html" />
         <option value="$PROJECT_DIR$/Unify/assets/js/pages/contact.js" />
         <option value="$PROJECT_DIR$/assets/js/pages/contact.js" />
-        <option value="$PROJECT_DIR$/meet_the_team.html" />
         <option value="$PROJECT_DIR$/Vendors.html" />
-        <option value="$PROJECT_DIR$/Contact.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/Services.html" />
         <option value="$PROJECT_DIR$/coming_soon.html" />
+        <option value="$PROJECT_DIR$/Contact.html" />
+        <option value="$PROJECT_DIR$/meet_the_team.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1576" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -339,8 +229,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,7 +243,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Procomm" />
+              <option name="myItemId" value="NLDK.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,16 +253,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Procomm" />
+              <option name="myItemId" value="NLDK.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Unify" />
+              <option name="myItemId" value="Documentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NLDK.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NLDK.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NLDK.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NLDK.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,7 +347,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="last_opened_file_path" value="$USER_HOME$/NYU/Spring Semester 2013/Operating Systems/Labs/lab3/lab3-kirlin-daniel/ResourceManager.c" />
     <property name="options.lastSelected" value="settings.github" />
@@ -422,21 +384,6 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -445,14 +392,7 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -494,9 +434,6 @@
       <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -553,10 +490,6 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -627,21 +560,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -700,6 +618,8 @@
       <workItem from="1393619240943" duration="398000" />
       <workItem from="1393695054055" duration="77000" />
       <workItem from="1394131320369" duration="2321000" />
+      <workItem from="1394554283504" duration="468000" />
+      <workItem from="1394554965614" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="Fleshed out the website more. &#10;Home Page Slider, Contact Page, Meet The Team page, about us page, began updating images">
       <created>1393431591176</created>
@@ -741,11 +661,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41324000" />
+    <option name="totallyTimeSpent" value="43884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -762,17 +682,17 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992503" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39945468" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -807,6 +727,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/coming_soon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="21" selection-start="1964" selection-end="1964" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="2085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="423" column="0" selection-start="21301" selection-end="24697" vertical-scroll-proportion="0.0" vertical-offset="6345" max-vertical-offset="9555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/clients/shell.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -828,11 +762,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/sliders/layer/bg1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/mockup/iphone1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -887,29 +816,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unify/assets/css/themes/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7922" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unify/page_home1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="33" selection-start="4033" selection-end="4037" vertical-scroll-proportion="325.96155" vertical-offset="9988" max-vertical-offset="12682" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unify/page_coming_soon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="8" selection-start="0" selection-end="6017" vertical-scroll-proportion="-31.384615" vertical-offset="1479" max-vertical-offset="2397" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/new/img1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="16" selection-start="1445" selection-end="1445" vertical-scroll-proportion="88.92308" vertical-offset="2907" max-vertical-offset="6647" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/partners/Zetron.png">
@@ -960,16 +869,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/custom/logo2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unify/page_services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11186" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unify/page_services1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="641" column="8" selection-start="0" selection-end="33383" vertical-scroll-proportion="-31.384615" vertical-offset="10081" max-vertical-offset="10999" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/main/1.jpg">
@@ -1042,33 +941,62 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="28" selection-start="15363" selection-end="15363" vertical-scroll-proportion="0.0" vertical-offset="3957" max-vertical-offset="7480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="423" column="0" selection-start="21301" selection-end="24697" vertical-scroll-proportion="0.0" vertical-offset="6622" max-vertical-offset="10829">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="378" column="12" selection-start="17384" selection-end="17384" vertical-scroll-proportion="-37.576923" vertical-offset="5449" max-vertical-offset="9401">
+        <state line="378" column="12" selection-start="17384" selection-end="17384" vertical-scroll-proportion="0.0" vertical-offset="5670" max-vertical-offset="8295">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coming_soon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="21" selection-start="1964" selection-end="1964" vertical-scroll-proportion="0.43663004" vertical-offset="152" max-vertical-offset="2363">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="44" column="21" selection-start="1964" selection-end="1964" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="2085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/bg/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/mockup/iphone1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="314" column="28" selection-start="15363" selection-end="15363" vertical-scroll-proportion="2.3297002" vertical-offset="2145" max-vertical-offset="6600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="274" column="25" selection-start="12477" selection-end="12477" vertical-scroll-proportion="-65.625" vertical-offset="2535" max-vertical-offset="4650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet_the_team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="18" selection-start="2292" selection-end="2292" vertical-scroll-proportion="-5.0" vertical-offset="615" max-vertical-offset="7500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="0" selection-start="6322" selection-end="6322" vertical-scroll-proportion="0.3584559" vertical-offset="1665" max-vertical-offset="9165">
+          <folding />
         </state>
       </provider>
     </entry>
