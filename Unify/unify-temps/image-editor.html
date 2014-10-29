@@ -1,0 +1,30 @@
+<div id="un1fyPrompt" class="un1fyImgSelect un1fyPrompt clearfix">
+    <h4 id="un1fyPromptTitle" class="un1fyPromptTitle">Edit Image</h4>
+    <div class="un1fyImgChoose un1fyImgChooseInline clearfix" id="un1fyImgChoose">
+        <h4>Upload A New Image</h4>
+        <p>First select the folder you want to upload to:</p>
+        <form target="un1fyImgUploadIframe" action="functions/upload.php?type=img" method="POST" id="un1fyImgLoc" class="un1fyImgLoc" enctype="multipart/form-data">
+            <select id="un1fyImgFolder" name="un1fyImgFolder">
+                <option id="un1fyImgFolderDefault" selected="selected" class="defaultFolder" value="">Loading&hellip;</option>
+            </select>
+            <p>Then, upload an image from your computer:</p>
+            <input id="un1fyImgUpload" name="un1fyImgUpload" class="un1fyImgUpload" type="file">
+        </form>
+       	<form action="javascript:" method="POST" name="un1fyImgSrc" class="un1fyImgLoc" enctype="multipart/form-data">
+            <h4 class="un1fyImgURLTitle">Or Choose An Existing Image</h4>
+            <p>To use an image that already exists on the web, enter the URL of the image below:</p>
+            <div><input id="un1fyImgAddress" name="un1fyImgAddress" class="un1fyImgAddress" type="text" value="http://" /><a href="javascript:" class="un1fyFBrowse" rel="#un1fyImgAddress" title="Link to a file on the server">browse</a></div>
+            <p><a id="un1fyApplyBtn" class="un1fyApplyBtn" href="javascript:">&laquo; apply</a></p>
+        </form>
+    </div>
+    <ul class="un1fyImgProperties">
+        <li class="un1fyImgAltText clearfix"><label>Alt Text</label><input id="un1fyImgAltTxt" name="un1fyImgAltTxt" type="text"></li>
+        <li class="clearfix"><label>Class</label><input id="un1fyImgClass" name="un1fyImgClass" type="text"></li>
+        <li class="clearfix"><label>Link URL</label><input id="un1fyImgLink" name="un1fyImgLink" type="text"><a href="javascript:" class="un1fyFBrowse" rel="#un1fyImgLink" title="Link to an image on the server" >browse</a></li>
+        <li class="un1fyImgRel disabled clearfix"><label>Link Rel</label><input id="un1fyImgRel" name="un1fyImgRel" type="text" disabled="disabled"></li>
+    </ul>
+    <div class="un1fyImgInsert un1fyPromptInsert">
+        <a title="Apply these changes" href="javascript:" id="un1fyPromptBtn">done</a>
+        <a id="un1fyPromptCancel" title="cancel" href="javascript:">cancel</a>
+    </div>
+</div>
